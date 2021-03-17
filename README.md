@@ -35,14 +35,10 @@
 <br />
 <br />
 📫 **How to reach me:** <br />
-email: paigekim29@gmail.com <br />
-blog: https://paigekim29.medium.com/ <br />
+email: sanghyuk.ch@gmail.com <br />
+blog: https://Sanghyuk-CH.tistory.com/ <br />
 <br />
 **PROJECTS:** <br />
 https://cloud-bookstore.com <br />
 https://kudapach.com <br />
-https://paigekim29.github.io/paige-talk/ <br />
-https://paigekim29.github.io/pre-sprint-twittler/ <br />
-https://paigekim29.github.io/pre-sprint-tree-ui/ <br />
-https://paigekim29.github.io/im-sprint-subclass-dance-party/ <br />
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=paigekim29&" alt="paigekim29" /></p>
