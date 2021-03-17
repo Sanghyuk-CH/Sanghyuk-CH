@@ -9,19 +9,19 @@
 ![javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![java](https://img.shields.io/badge/Java-black?logo=java)
 <br/>
-🌱 **FRONT-END** <br />
-![react](https://img.shields.io/badge/React-black?logo=react)
-![react](https://img.shields.io/badge/React_Hooks-black?logo=react)
-![react-router](https://img.shields.io/badge/React_router-black?logo=react-router)
-![html5](https://img.shields.io/badge/HTML5-black?logo=html5)	
-![css3](https://img.shields.io/badge/CSS3-black?logo=css3)
-<br />
 🌱 **BACK-END** <br />
 ![node](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![mysql](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![sequelize](https://img.shields.io/badge/Sequelize-black)
 ![typeORM](https://img.shields.io/badge/typeORM-black)
+<br />
+🌱 **FRONT-END** <br />
+![react](https://img.shields.io/badge/React-black?logo=react)
+![react](https://img.shields.io/badge/React_Hooks-black?logo=react)
+![react-router](https://img.shields.io/badge/React_router-black?logo=react-router)
+![html5](https://img.shields.io/badge/HTML5-black?logo=html5)	
+![css3](https://img.shields.io/badge/CSS3-black?logo=css3)
 <br />
 🛠 **TOOLS** <br />
 ![vscode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
