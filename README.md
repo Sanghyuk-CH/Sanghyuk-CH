@@ -1,5 +1,5 @@
 ### Hello Everyone 👋
-백엔드를 지향하는 개발 잼민이💻 
+백엔드를 지향하는 주니어 개발자💻 
 <br />
 <br />
 🖌 **LANGUAGE** <br />
