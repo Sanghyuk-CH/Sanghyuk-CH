@@ -18,14 +18,15 @@
 <br />
 🌱 **BACK-END** <br />
 ![node](https://img.shields.io/badge/Node.js-black?logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![mysql](https://img.shields.io/badge/MySQL-black?logo=mysql)
-![AWS](https://img.shields.io/badge/AWS-black?logo=Amazon-AWS)
 ![sequelize](https://img.shields.io/badge/Sequelize-black)
 ![typeORM](https://img.shields.io/badge/typeORM-black)
 <br />
 🛠 **TOOLS** <br />
 ![vscode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
 ![webstorm](https://img.shields.io/badge/WebStorm-black?logo=webstorm)
+![AWS](https://img.shields.io/badge/AWS-black?logo=Amazon-AWS)
 ![docker](https://img.shields.io/badge/Docker-black?logo=docker)
 ![slack](https://img.shields.io/badge/Slack-black?logo=slack)	
 ![postman](https://img.shields.io/badge/Postman-black?logo=postman) 
