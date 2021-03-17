@@ -1,5 +1,5 @@
 ### Hello Everyone 👋
-백엔드를 지향하는 주니어 개발자💻 
+백엔드를 지향하는 주니💻 
 <br />
 <br />
 🖌 **LANGUAGE** <br />
