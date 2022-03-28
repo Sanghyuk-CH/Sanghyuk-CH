@@ -7,7 +7,7 @@
 ![English](https://img.shields.io/badge/English-blue)
 ![Typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![JAVA](https://img.shields.io/badge/JAVA-black?logo=java)
+![Python](https://img.shields.io/badge/Python-black?logo=python)
 <br/>
 <br/>
 🌱 **BACK-END** <br/>
@@ -16,8 +16,9 @@
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![NginX](https://img.shields.io/badge/Nginx-black?logo=nginx)
 ![OralceDB](https://img.shields.io/badge/OracleDB-black?logo=oracle)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
 ![MySql](https://img.shields.io/badge/MySQL-black?logo=mysql)
-![Sequelize](https://img.shields.io/badge/Sequelize-black?logo=Sequilize)
+![Sequelize](https://img.shields.io/badge/Sequelize-black?logo=sequilize)
 ![TypeORM](https://img.shields.io/badge/typeORM-black)
 <br/>
 <br/>
