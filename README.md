@@ -16,7 +16,6 @@
 ![Express](https://img.shields.io/badge/Express-black?logo=express)
 ![NginX](https://img.shields.io/badge/Nginx-black?logo=nginx)
 ![OralceDB](https://img.shields.io/badge/OracleDB-black?logo=oracle)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
 ![MySql](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![Sequelize](https://img.shields.io/badge/Sequelize-black?logo=sequilize)
 ![TypeORM](https://img.shields.io/badge/typeORM-black)
