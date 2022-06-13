@@ -41,7 +41,7 @@
 <br/><br/>
 📫 **How to reach me:** <br/>
 email: sanghyuk.ch@gmail.com <br/>
-blog: <a href="https://Sanghyuk-CH.tistory.com">Sanghyuk-CH.tistory</a><br/>
+<!--blog: <a href="https://Sanghyuk-CH.tistory.com">Sanghyuk-CH.tistory</a><br/>-->
 <!--<br/>
 **PROJECTS:** <br/>
 https://cloud-bookstore.com <br/>-->
