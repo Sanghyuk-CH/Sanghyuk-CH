@@ -35,7 +35,7 @@
 ![docker](https://img.shields.io/badge/Docker-black?logo=docker)
 ![slack](https://img.shields.io/badge/Slack-black?logo=slack)	
 ![postman](https://img.shields.io/badge/Postman-black?logo=postman) 
-![workbench](https://img.shields.io/badge/MySQLWorkbench-black)
+![workbench](https://img.shields.io/badge/MySQLWorkbench-black?logo=mysql)
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![zeplin](https://img.shields.io/badge/Zeplin-black)
 <br/><br/>
