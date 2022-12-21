@@ -2,14 +2,15 @@
 어쩌다 보니 풀스택 개발자 💻 
 <br/>
 <br/>
+
 🖌 **LANGUAGE** <br/>
 ![Korean](https://img.shields.io/badge/Korean-red)
 ![English](https://img.shields.io/badge/English-blue)
 ![Typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
-![Python](https://img.shields.io/badge/Python-black?logo=python)
 <br/>
 <br/>
+
 🌱 **BACK-END** <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-black?logo=NestJS)
@@ -17,17 +18,20 @@
 ![NginX](https://img.shields.io/badge/Nginx-black?logo=nginx)
 ![OralceDB](https://img.shields.io/badge/OracleDB-black?logo=oracle)
 ![MySql](https://img.shields.io/badge/MySQL-black?logo=mysql)
-![Sequelize](https://img.shields.io/badge/Sequelize-black?logo=sequilize)
 ![TypeORM](https://img.shields.io/badge/typeORM-black)
+![Sequelize](https://img.shields.io/badge/Sequelize-black?logo=sequilize)
 <br/>
 <br/>
+
 🌱 **FRONT-END** <br/>
 ![React](https://img.shields.io/badge/React-black?logo=react)
+![Emotion](https://img.shields.io/badge/Emotion-black?logo=emotion)
 ![Next.JS](https://img.shields.io/badge/Next.JS-black?logo=Next.JS)
 ![Mui](https://img.shields.io/badge/MaterialUI-black?logo=mui)
 ![html5](https://img.shields.io/badge/HTML5-black?logo=html5)	
 ![css3](https://img.shields.io/badge/CSS3-black?logo=css3)
 <br/><br/>
+
 🛠 **TOOLS** <br/>
 ![vscode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ-black?logo=IntelliJIDEA)
@@ -39,6 +43,7 @@
 ![Figma](https://img.shields.io/badge/Figma-black?logo=figma)
 ![zeplin](https://img.shields.io/badge/Zeplin-black)
 <br/><br/>
+
 📫 **How to reach me:** <br/>
 email: sanghyuk.ch@gmail.com <br/>
 <!--blog: <a href="https://Sanghyuk-CH.tistory.com">Sanghyuk-CH.tistory</a><br/>-->
