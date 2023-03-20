@@ -8,8 +8,22 @@
 ![English](https://img.shields.io/badge/English-blue)
 ![Typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
+![Dart](https://img.shields.io/badge/Dart-black?logo=dart)
 <br/>
 <br/>
+
+🌱 **APP** <br/>
+![Flutter](https://img.shields.io/badge/Flutter-black?logo=flutter)
+
+🌱 **FRONT-END** <br/>
+![React](https://img.shields.io/badge/React-black?logo=react)
+![Emotion](https://img.shields.io/badge/Emotion-black?logo=emotion)
+![Mui](https://img.shields.io/badge/MaterialUI-black?logo=mui)
+![html5](https://img.shields.io/badge/HTML5-black?logo=html5)	
+![css3](https://img.shields.io/badge/CSS3-black?logo=css3)
+<br/>
+<br/>
+
 
 🌱 **BACK-END** <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
@@ -18,19 +32,10 @@
 ![NginX](https://img.shields.io/badge/Nginx-black?logo=nginx)
 ![OralceDB](https://img.shields.io/badge/OracleDB-black?logo=oracle)
 ![MySql](https://img.shields.io/badge/MySQL-black?logo=mysql)
-![TypeORM](https://img.shields.io/badge/typeORM-black)
+![TypeORM](https://img.shields.io/badge/typeORM-black?logo=typeorm)
 ![Sequelize](https://img.shields.io/badge/Sequelize-black?logo=sequilize)
 <br/>
 <br/>
-
-🌱 **FRONT-END** <br/>
-![React](https://img.shields.io/badge/React-black?logo=react)
-![Emotion](https://img.shields.io/badge/Emotion-black?logo=emotion)
-![Next.JS](https://img.shields.io/badge/Next.JS-black?logo=Next.JS)
-![Mui](https://img.shields.io/badge/MaterialUI-black?logo=mui)
-![html5](https://img.shields.io/badge/HTML5-black?logo=html5)	
-![css3](https://img.shields.io/badge/CSS3-black?logo=css3)
-<br/><br/>
 
 🛠 **TOOLS** <br/>
 ![vscode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
