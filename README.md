@@ -33,7 +33,6 @@
 ![OralceDB](https://img.shields.io/badge/OracleDB-black?logo=oracle)
 ![MySql](https://img.shields.io/badge/MySQL-black?logo=mysql)
 ![TypeORM](https://img.shields.io/badge/typeORM-black?logo=typeorm)
-![Sequelize](https://img.shields.io/badge/Sequelize-black?logo=sequilize)
 <br/>
 <br/>
 
