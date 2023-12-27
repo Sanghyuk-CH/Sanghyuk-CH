@@ -1,19 +1,14 @@
 ### Hello Everyone 👋
-어쩌다 보니 풀스택 개발자 💻 
+어쩌다 보니 풀스택 💻 
 <br/>
 <br/>
 
 🖌 **LANGUAGE** <br/>
-![Korean](https://img.shields.io/badge/Korean-red)
-![English](https://img.shields.io/badge/English-blue)
+<!--![Korean](https://img.shields.io/badge/Korean-red)-->
+<!--![English](https://img.shields.io/badge/English-blue)-->
 ![Typescript](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 ![Javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![Dart](https://img.shields.io/badge/Dart-black?logo=dart)
-<br/>
-<br/>
-
-🌱 **APP** <br/>
-![Flutter](https://img.shields.io/badge/Flutter-black?logo=flutter)
 <br/>
 <br/>
 
@@ -26,7 +21,6 @@
 <br/>
 <br/>
 
-
 🌱 **BACK-END** <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-black?logo=node.js)
 ![NestJS](https://img.shields.io/badge/NestJS-black?logo=NestJS)
@@ -38,9 +32,14 @@
 <br/>
 <br/>
 
+🌱 **APP** <br/>
+![Flutter](https://img.shields.io/badge/Flutter-black?logo=flutter)
+<br/>
+<br/>
+
 🛠 **TOOLS** <br/>
 ![vscode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJ-black?logo=IntelliJIDEA)
+<!--![IntelliJIDEA](https://img.shields.io/badge/IntelliJ-black?logo=IntelliJIDEA)-->
 ![AWS](https://img.shields.io/badge/AWS-black?logo=Amazon-AWS)
 ![docker](https://img.shields.io/badge/Docker-black?logo=docker)
 ![slack](https://img.shields.io/badge/Slack-black?logo=slack)	
