@@ -39,7 +39,6 @@
 
 🛠 **TOOLS** <br/>
 ![vscode](https://img.shields.io/badge/VSCode-black?logo=visual-studio-code)
-<!--![IntelliJIDEA](https://img.shields.io/badge/IntelliJ-black?logo=IntelliJIDEA)-->
 ![AWS](https://img.shields.io/badge/AWS-black?logo=Amazon-AWS)
 ![docker](https://img.shields.io/badge/Docker-black?logo=docker)
 ![slack](https://img.shields.io/badge/Slack-black?logo=slack)	
