@@ -13,6 +13,7 @@
 
 🌱 **FRONT-END** <br/>
 ![React](https://img.shields.io/badge/React-black?logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=nextdotjs)
 ![Emotion](https://img.shields.io/badge/Emotion-black?logo=emotion)
 ![Mui](https://img.shields.io/badge/MaterialUI-black?logo=mui)
 ![html5](https://img.shields.io/badge/HTML5-black?logo=html5)	
@@ -27,12 +28,17 @@
 ![NginX](https://img.shields.io/badge/Nginx-black?logo=nginx)
 ![OralceDB](https://img.shields.io/badge/OracleDB-black?logo=oracle)
 ![MySql](https://img.shields.io/badge/MySQL-black?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=postgresql)
 ![TypeORM](https://img.shields.io/badge/typeORM-black?logo=typeorm)
 <br/>
 <br/>
 
 🌱 **APP** <br/>
 ![Flutter](https://img.shields.io/badge/Flutter-black?logo=flutter)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-black?logo=androidstudio)
+![Xcode](https://img.shields.io/badge/Xcode-black?logo=xcode)
+![Kotlin](https://img.shields.io/badge/Kotlin-black?logo=kotlin)
+![Swift](https://img.shields.io/badge/Swift-black?logo=swift)
 <br/>
 <br/>
 
